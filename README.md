@@ -1,5 +1,6 @@
-![Capture1](https://user-images.githubusercontent.com/118710462/209946431-ebcd1f06-d193-4cff-8ac0-94e2abc0b3f5.PNG)
-![Capture](https://user-images.githubusercontent.com/118710462/209946310-92f9e5fc-38ea-42a5-9300-5946f3d509b5.PNG)
+![Capture1](https://user-images.githubusercontent.com/118710462/209947057-2b3c0358-753b-4139-809b-8f9a0ac038a0.PNG)
+![Capture2](https://user-images.githubusercontent.com/118710462/209947029-29b65cb3-0ef0-4901-b770-1a8d7a586d97.PNG)
+
 # Music-Streaming-Website-Design
 
 "Throwback 90s"....
